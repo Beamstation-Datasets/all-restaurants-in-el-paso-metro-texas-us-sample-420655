@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the El Paso (Metro), Texas metro region, encompassing El Paso. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in El Paso (Metro), Texas, US",
+  "export_job_id": "941e5d23-9860-4009-93ea-74052ff58369",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 420655,
+  "location_name": "El Paso, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-el-paso-metro-texas-us-sample-420655",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/420655/beamstation_420655_restaurants-us-elpasotx_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 253,
+  "sample_sha256": "0e34fab09b72dea8a358bd3378aa5d8d5c72f5fd0a3c9e20acf88ce65f9a59f4",
+  "sample_size_bytes": 889300,
+  "total_records": 2538,
+  "updated_at": "2026-04-07T13:45:26.130908+00:00"
+}
