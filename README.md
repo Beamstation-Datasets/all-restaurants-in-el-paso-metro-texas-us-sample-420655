@@ -1,6 +1,6 @@
 # All Restaurants in El Paso (Metro), Texas, US
 
-> Free BeamStation sample export with 245 rows and masked direct-contact fields.
+> Free BeamStation sample export with 221 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `420655` |
 | Location | El Paso, TX |
 | Category | Restaurants |
-| Full dataset size | 2,456 records |
-| Free sample size | 245 records (9.98%) |
-| Last export | 2026-04-14T20:51:24.386766+00:00 |
+| Full dataset size | 2,212 records |
+| Free sample size | 221 records (9.99%) |
+| Last export | 2026-04-21T23:16:54.425102+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-el-paso-metro-texas-us-sample-420655/releases/download/sample-latest/beamstation_420655_restaurants-us-elpasotx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
