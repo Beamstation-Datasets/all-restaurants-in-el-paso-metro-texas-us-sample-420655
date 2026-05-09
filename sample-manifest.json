@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5f7c85f4-3353-45fd-bc34-cd158fcf458a",
+  "export_job_id": "46a01bde-722c-4518-9109-b5adfe227749",
   "id_short": 420655,
-  "published_at": "2026-04-29T07:37:59Z",
+  "published_at": "2026-05-09T07:04:22Z",
   "repo_name": "all-restaurants-in-el-paso-metro-texas-us-sample-420655",
   "sample_asset_name": "beamstation_420655_restaurants-us-elpasotx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/420655/beamstation_420655_restaurants-us-elpasotx_SAMPLE_DIST.csv",
-  "sample_records": 245,
-  "sample_sha256": "940e490f3ec350ef27142ac5979f0d91370a6069aa6112b79480ab95fc4b1185",
-  "sample_size_bytes": 810922,
-  "total_records": 2450
+  "sample_records": 259,
+  "sample_sha256": "d091b499f6cb12a81d170c6eb404b09c0d5eb015e4ffeefbf298ede55d69c083",
+  "sample_size_bytes": 916169,
+  "total_records": 2593
 }
